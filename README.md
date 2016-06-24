@@ -19,7 +19,7 @@ I recommend to use [antigen][] for installing this theme:
     source /usr/local/share/antigen.zsh
 
     antigen use oh-my-zsh
-    antigen theme tonyseek/oh-my-zsh-seeker-theme seeker
+    antigen theme xueruini/oh-my-zsh-seeker-theme seeker
     antigen apply
 
 It's easy to upgrade this theme with git:
